@@ -24,6 +24,4 @@ class UserVals():
     params = {
      "count": count,
      "granularity": "H4"
-    }
-
-
+   }
